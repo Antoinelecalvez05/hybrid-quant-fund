@@ -1,0 +1,26 @@
+[SYNTHETIC EXAMPLE — NOT A REAL SOURCE DOCUMENT]
+Date: 2020-03-15
+Source: Synthetic example for hybrid-quant-fund V3 testing
+Title: COVID-19 Market Stress and Global Recession Concerns
+
+Global equity markets have experienced extraordinary volatility and steep
+declines as the COVID-19 pandemic spreads rapidly across countries. Circuit
+breakers have been triggered multiple times this week as investor uncertainty
+reaches levels not seen since the 2008 financial crisis.
+
+Central banks are in emergency mode. The Federal Reserve cut rates to near
+zero in an unscheduled emergency action, citing severe downside risks to
+economic growth. The economic contraction ahead is expected to be sharp and
+sudden. Unemployment claims are surging. Supply chains are disrupted.
+
+Credit markets are showing significant stress. Spreads are widening. Liquidity
+conditions are deteriorating in money markets. Risk appetite has collapsed.
+Defensive assets including government bonds and gold are seeing strong inflows.
+
+Recession risk is now elevated and rising. GDP forecasts for 2020 are being
+revised sharply lower across developed and emerging markets. The outlook
+remains highly uncertain. Volatility is expected to persist.
+
+Key themes: recession, contraction, unemployment, volatility, crisis,
+uncertainty, stress, rate cuts, emergency, slowdown, negative growth,
+risk-off, defensive, flight-to-quality.

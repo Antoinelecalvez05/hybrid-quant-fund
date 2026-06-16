@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.local
+
+# Streamlit / cache
+.streamlit/secrets.toml
+.cache/
+
+# Local data cache
+data/prices.csv
+
+# System files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
