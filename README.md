@@ -1,6 +1,6 @@
 # Hybrid Quant Fund — Research Prototype
 
-> ⚠️ **Research and educational prototype only.**
+> **Research and educational prototype only.**
 > This project is **not** a live trading system.
 > It is **not** investment advice.
 > It is **not** a regulated investment product or fund.
